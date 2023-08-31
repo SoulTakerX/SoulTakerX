@@ -8,7 +8,7 @@
 ##  Top Skills 
  ## 🔎Osint, 🕸️Websecurity, 🪜Privilege escalation
 
- ### Im currenty on two CTF Plataform 🧪
+ ### Im currently on two CTF Plataform 🧪
  <img align="center" alt="html5" src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /><img align="center" alt="html5" src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" />
  
  ### Rank tryhackme 1% 📈
